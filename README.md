@@ -1,2 +1,2 @@
-# grok_algorythms
-Working materilas for book "Grokking Algorithms" by Aditya Bhargava
+# theory_python_notebooks
+Theory materials for Python
